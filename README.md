@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on HTML and C++
-- 📫 How to reach me mail: akshayshukla734@gmail.com
+- 📫 How to reach my mail: akshayshukla734@gmail.com
 
 <!---
 AkshayS734/AkshayS734 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
