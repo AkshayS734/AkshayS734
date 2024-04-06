@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkshayS734
 - 👀 I’m interested in Web development and DevOps
 - 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript and C++
+- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, Java, Python and C++
 - 📫 How to reach my mail: akshayshukla734@gmail.com
 
 <!---
