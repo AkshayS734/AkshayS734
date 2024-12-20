@@ -32,11 +32,6 @@ I'm a passionate software developer with a keen interest in web development, iOS
 - iOS development
 - Web3 technologies
 
-## 📚 Projects
-- **[Project 1: E-commerce Website](https://github.com/AkshayS734/e-commerce-website)**: A fully functional e-commerce website built with React and Node.js.
-- **[Project 2: iOS Weather App](https://github.com/AkshayS734/ios-weather-app)**: A weather application for iOS developed with Swift and SwiftUI.
-- **[Project 3: Decentralized Voting System](https://github.com/AkshayS734/decentralized-voting-system)**: A decentralized voting system using Ethereum and Solidity.
-
 ---
 
 *Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!*
