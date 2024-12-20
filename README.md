@@ -14,19 +14,11 @@ I'm a passionate software developer with a keen interest in web development, iOS
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayS734&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** [akshay@example.com](mailto:akshay@example.com)
-- **LinkedIn:** [Akshay on LinkedIn](https://www.linkedin.com/in/akshays734/)
-- **Twitter:** [@AkshayS734](https://twitter.com/AkshayS734)
+- **Email:** [akshaycommits@gmail.com](mailto:akshaycommits@gmail.com)
+- **LinkedIn:** [Akshay on LinkedIn](https://www.linkedin.com/in/akshaysshukla/)
+- **Twitter:** [@akshaysshukla](https://twitter.com/akshaysshukla)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Asynchronous JavaScript](https://yourblog.com/asynchronous-javascript)
-- [Getting Started with SwiftUI](https://yourblog.com/getting-started-with-swiftui)
-- [Introduction to Smart Contracts with Solidity](https://yourblog.com/introduction-to-solidity)
-<!-- BLOG-POST-LIST:END -->
 
-## ⚡ Fun Fact
-I'm also a photography enthusiast and love capturing moments of nature and urban life.
 
 ## 🏆 GitHub Trophies
 ![Akshay's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkshayS734&theme=radical)
@@ -39,6 +31,11 @@ I'm also a photography enthusiast and love capturing moments of nature and urban
 - Web development
 - iOS development
 - Web3 technologies
+
+## 📚 Projects
+- **[Project 1: E-commerce Website](https://github.com/AkshayS734/e-commerce-website)**: A fully functional e-commerce website built with React and Node.js.
+- **[Project 2: iOS Weather App](https://github.com/AkshayS734/ios-weather-app)**: A weather application for iOS developed with Swift and SwiftUI.
+- **[Project 3: Decentralized Voting System](https://github.com/AkshayS734/decentralized-voting-system)**: A decentralized voting system using Ethereum and Solidity.
 
 ---
 
