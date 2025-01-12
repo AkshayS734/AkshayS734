@@ -15,7 +15,7 @@ I'm a passionate software developer with a keen interest in web development, iOS
 
 ## 📫 How to reach me
 - **Email:** [akshaycommits@gmail.com](mailto:akshaycommits@gmail.com)
-- **LinkedIn:** [Akshay on LinkedIn](https://www.linkedin.com/in/akshaysshukla/)
+- **LinkedIn:** [Akshay Shukla on LinkedIn](https://www.linkedin.com/in/akshaysshukla/)
 - **Twitter:** [@akshaysshukla](https://twitter.com/akshaysshukla)
 
 
