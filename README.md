@@ -6,7 +6,7 @@ I'm a passionate software developer with a keen interest in web development, iOS
 ## 🔧 Technologies & Tools
 - **Languages:** Python, JavaScript, Swift, Solidity, Java, C++
 - **Frameworks:** React, Node.js, Express, SwiftUI
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, MongoDB, Supabase
 - **Tools:** Git, Docker, VS Code, Xcode
 - **Web3:** Solidity, Ethereum, Smart Contracts
 
