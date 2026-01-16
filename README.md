@@ -50,7 +50,7 @@ I’m a software engineer with hands-on experience building **iOS and web applic
 ---
 
 ## 📊 GitHub Stats
-![Akshay's GitHub stats](https://gh-readme-profile.vercel.app/api?username=AkshayS734&theme=github_dark&hide_border=true)
+![Akshay's GitHub stats](https://gh-readme-profile.vercel.app/api?username=AkshayS734&theme=github_dark&hide=forks,contributed_border=true)
 
 ---
 
@@ -69,6 +69,7 @@ I’m a software engineer with hands-on experience building **iOS and web applic
 ---
 
 ## 📫 Get in Touch
+- 🌐 Portfolio: [https://akshaysshukla.vercel.app](https://akshaysshukla.vercel.app)
 - 📧 Email: [akshaycommits@gmail.com](mailto:akshaycommits@gmail.com)
 - 💼 LinkedIn: [Akshay Shukla](https://www.linkedin.com/in/akshaysshukla/)
 - 🐦 Twitter/X: [@akshaysshukla](https://twitter.com/akshaysshukla)
