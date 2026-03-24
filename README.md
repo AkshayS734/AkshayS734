@@ -69,8 +69,8 @@ I’m a software engineer with hands-on experience building **iOS and web applic
 ---
 
 ## 📫 Get in Touch
-- 🌐 Portfolio: [https://akshaysshukla.vercel.app](https://akshayshukla.xyz)
-- 📧 Email: [akshaycommits@gmail.com](mailto:akshaysbuilds@gmail.com)
+- 🌐 Portfolio: [https://akshayshukla.xyz](https://akshayshukla.xyz)
+- 📧 Email: [akshaysbuilds@gmail.com](mailto:akshaysbuilds@gmail.com)
 - 💼 LinkedIn: [Akshay Shukla](https://www.linkedin.com/in/akshaysshukla/)
 - 🐦 Twitter/X: [@akshaysshukla](https://twitter.com/akshaysshukla)
 
